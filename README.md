@@ -88,10 +88,14 @@
 <!--        LANGUAGES        -->
 <!-- ======================= -->
 
-<h2 align="center">📈 Language Usage</h2>
+<!-- ======================= -->
+<!--        LANGUAGES        -->
+<!-- ======================= -->
+
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axfal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,java,js&perline=5" />
 </p>
 
 ---
