@@ -1,9 +1,9 @@
 <!-- ======================= -->
-<!--        BANNER           -->
+<!--        VIBRANT BANNER   -->
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Anfal%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=230&section=header&text=Muhammad%20Anfal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=18" />
 </p>
 
 <!-- ======================= -->
@@ -11,7 +11,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="160" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="160" style="border-radius:50%; border:4px solid #7928ca;" />
 </p>
 
 <h3 align="center">
@@ -19,123 +19,122 @@
 </h3>
 
 <p align="center">
-📱 Flutter • 🌐 Django & FastAPI • ⚙️ Scalable APIs • ☁️ Cloud-Ready Systems
+📱 Flutter • 🌐 Django & FastAPI • ⚙️ Scalable APIs • ☁️ Modern Architectures
 </p>
 
 <p align="center">
-  <a href="https://github.com/Axfal">
-    <img src="https://komarev.com/ghpvc/?username=Axfal&style=flat-square&color=blue" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Axfal&style=flat-square&color=ff0080" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Software Engineer** with strong expertise in **mobile application development** and **backend systems**.  
-I focus on building **scalable, maintainable, and production-ready applications** using modern architectures and industry best practices.
+I am **Muhammad Anfal**, a **Full Stack Software Engineer** with strong expertise in **mobile application development** and **backend systems**.
 
-- 📱 Expert in **Flutter mobile apps**
-- ⚙️ Backend APIs with **Django, FastAPI & DRF**
-- 🧠 Strong foundation in **OOP, DSA & Databases**
-- 🚀 Passionate about **clean architecture & performance**
-- 🎯 Aspiring **AI & Systems Engineer**
+I specialize in building **modern, scalable, and production-grade applications** using clean architecture, performance optimization, and industry best practices.
+
+- 📱 Flutter expert (Provider, Bloc, MVVM)
+- ⚙️ Backend with Django, FastAPI & DRF
+- 🧠 Strong CS fundamentals (OOP, DSA, Databases)
+- 🚀 Focused on clean code & scalability
+- 🎯 Aspiring AI & Systems Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile App Development
+### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=light" />
 </p>
 
-- **Flutter**
-- **Dart**
-- **State Management:** Provider, Bloc
-- **Architecture:** MVVM
-- **Firebase** (Auth, Firestore, FCM)
-- **Hive (Local DB)**
-- **Google Maps**
-- **Stripe Payment Gateway**
-- **Push Notifications**
-- **REST APIs Integration**
+- Flutter
+- Dart
+- Provider, Bloc
+- MVVM Architecture
+- Firebase (Auth, Firestore, FCM)
+- Hive (Local Storage)
+- Google Maps
+- Stripe Payment Gateway
+- Push Notifications
+- REST APIs
 
 ---
 
 ### 🌐 Web Development (Frontend)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=light" />
 </p>
 
-- HTML5  
-- CSS3  
-- Tailwind CSS  
+- HTML5
+- CSS3
+- Tailwind CSS
 - JavaScript (ES6+)
 
 ---
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
 </p>
 
-- **Python**
-- **Django**
-- **Django REST Framework (DRF)**
-- **FastAPI**
-- **WebSockets**
-- **RESTful APIs**
+- Python
+- Django
+- Django REST Framework (DRF)
+- FastAPI
+- WebSockets
+- RESTful APIs
 
 ---
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=light" />
 </p>
 
-- MySQL  
-- PostgreSQL  
-- Redis  
+- MySQL
+- PostgreSQL
+- Redis
 
 ---
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
 </p>
 
 - Docker
 - Git & GitHub
-- API Documentation
 - Version Control
+- API Documentation
 - Environment Management
 
 ---
 
-## 🧠 Core Computer Science Foundations
+## 🧠 Core Foundations
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
-- Database Design & Normalization
+- Database Design & Optimization
 - Software Architecture Principles
 
 ---
 
 ## 🚀 What I Build
-- 📱 Production-grade **Flutter mobile apps**
-- 🔐 Secure **authentication systems**
-- ⚙️ High-performance **REST APIs**
-- 🌍 Real-time apps using **WebSockets**
-- 💳 Payment-integrated applications
-- 🧱 Scalable backend architectures
+- 📱 High-quality Flutter mobile apps
+- 🔐 Secure authentication systems
+- ⚙️ Scalable backend APIs
+- 🌍 Real-time apps with WebSockets
+- 💳 Payment-integrated platforms
+- 🧱 Clean & maintainable architectures
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axfal&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axfal&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Axfal&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axfal&theme=radical" height="170"/>
 </p>
 
 ---
@@ -144,20 +143,20 @@ I focus on building **scalable, maintainable, and production-ready applications*
 
 <p>
   <a href="https://github.com/Axfal">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Clean code, scalable systems, and continuous learning.”</b>
+  <b>“Build with passion. Scale with precision.”</b>
 </p>
 
 <!-- ======================= -->
@@ -165,5 +164,5 @@ I focus on building **scalable, maintainable, and production-ready applications*
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2afadf,50:7928ca,100:ff0080&height=80&section=footer" />
 </p>
