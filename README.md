@@ -11,7 +11,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="160" style="border-radius:50%; border:4px solid #7928ca;" />
+  <img src="https://avatars.githubusercontent.com/u/171283252?s=400&u=dfac8e13029c496a8a68177f9a2fc4408d0ba309&v=4" width="160" style="border-radius:50%; border:4px solid #7928ca;" />
 </p>
 
 <h3 align="center">
