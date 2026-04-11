@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=230&section=header&text=Muhammad%20Anfal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:0ea5e9&text=Muhammad%20Anfal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20%26%20Backend%20Engineer&descAlignY=65&descSize=18" />
 </p>
 
 <!-- ======================= -->
@@ -15,11 +15,26 @@
 </p>
 
 <h3 align="center">
-🚀 Mobile • Backend • Scalable Systems
+📱 Mobile Applications • ⚙️ Backend APIs • 🚀 Scalable Systems
 </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Axfal&style=flat-square&color=0ea5e9"/>
+</p>
+
+---
+
+<!-- ======================= -->
+<!--     CORE EXPERTISE      -->
+<!-- ======================= -->
+
+<h2 align="center">🚀 Core Expertise</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Apps-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20%2B%20FastAPI-0ea5e9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scalable%20Systems-1e293b?style=for-the-badge"/>
 </p>
 
 ---
@@ -31,22 +46,23 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,fastapi,firebase,postgres,mysql,redis,docker,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,fastapi,postgres,mysql,redis,docker,git,github&perline=6" />
 </p>
 
 ---
 
 <!-- ======================= -->
-<!--        SPECIALIZATION   -->
+<!--        FOCUS AREAS      -->
 <!-- ======================= -->
 
-<h2 align="center">🚀 Expertise</h2>
+<h2 align="center">🎯 What I Build</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Apps-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--time%20Systems-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1e293b?style=for-the-badge"/>
+  📱 Cross-platform Mobile Apps <br/>
+  ⚙️ High-performance Backend APIs <br/>
+  🔐 Secure Authentication Systems <br/>
+  🌍 Real-time Applications (WebSockets) <br/>
+  💳 Payment Integrated Systems
 </p>
 
 ---
@@ -69,7 +85,7 @@
 ---
 
 <!-- ======================= -->
-<!--        LANGUAGE CHART   -->
+<!--        LANGUAGES        -->
 <!-- ======================= -->
 
 <h2 align="center">📈 Language Usage</h2>
@@ -81,7 +97,7 @@
 ---
 
 <!-- ======================= -->
-<!--        TOOLS VISUAL     -->
+<!--        TOOLS            -->
 <!-- ======================= -->
 
 <h2 align="center">🧰 Tools & Workflow</h2>
@@ -117,7 +133,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <i>“Engineering scalable systems with clean architecture & performance in mind.”</i>
+  <i>“Building mobile experiences backed by scalable, high-performance systems.”</i>
 </p>
 
 ---
