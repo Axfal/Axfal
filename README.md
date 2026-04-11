@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:0ea5e9&text=Muhammad%20Anfal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20%26%20Backend%20Engineer&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=230&section=header&text=Muhammad%20Anfal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=18" />
 </p>
 
 <!-- ======================= -->
