@@ -1,151 +1,273 @@
-<!-- ======================= -->
-<!--        HERO             -->
-<!-- ======================= -->
+<!-- ================================================= -->
+<!--                    HEADER                          -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=230&section=header&text=Muhammad%20Anfal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=18" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Muhammad%20Anfal&fontSize=48&fontColor=ffffff&color=0:0a0a0a,45:1b1b1b,100:d90429&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%7C%20Scalable%20Backend%20Systems%20%7C%20Flutter%20Developer&descAlignY=60&descSize=18"/>
+
 </p>
 
-<!-- ======================= -->
-<!--        PROFILE          -->
-<!-- ======================= -->
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/171283252?s=400" width="150" style="border-radius:50%; border:4px solid #0ea5e9;" />
-</p>
 
-<h3 align="center">
-📱 Mobile Applications • ⚙️ Backend APIs • 🚀 Scalable Systems
-</h3>
+<img src="https://komarev.com/ghpvc/?username=Axfal&style=for-the-badge&color=red"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Axfal&style=flat-square&color=0ea5e9"/>
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--     CORE EXPERTISE      -->
-<!-- ======================= -->
+# Muhammad Anfal
 
-<h2 align="center">🚀 Core Expertise</h2>
+### Full-Stack Software Engineer
+
+Building scalable backend systems, modern web applications, and cross-platform mobile applications using Python, Django, FastAPI, React.js and Flutter.
+
+Currently working as an **Associate Software Engineer** with experience developing enterprise software, REST APIs, payment integrations, cloud services, real-time systems, and scalable architectures.
+
+---
+
+# About Me
+
+- Backend Engineer specialized in **Python, Django & FastAPI**
+- Cross-platform Mobile App Developer using **Flutter**
+- Frontend Developer using **React.js & Redux Toolkit**
+- Designing scalable REST APIs
+- Real-time applications using WebSockets
+- Payment Gateway Integration
+- Cloud deployment with AWS
+- Database optimization & caching
+- Passionate about clean architecture and maintainable code
+
+---
+
+# Professional Experience
+
+### Associate Software Engineer
+**IT Genesis**
+**Jan 2026 – Present**
+
+- Developing scalable backend systems using Django
+- Building Flutter applications
+- Firebase integration
+- REST API development
+- Cross-functional collaboration
+- Clean architecture & maintainable software
+
+---
+
+### Associate Software Engineer
+**Dark Bytes**
+**Jan 2025 – Dec 2025**
+
+Worked on enterprise software using
+
+- Django
+- FastAPI
+- React.js
+- AWS
+- Firebase
+- Payment Gateways
+- PostgreSQL
+- MySQL
+
+Focused on scalable architecture, API development and frontend performance.
+
+---
+
+# Tech Stack
+
+## Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter%20Apps-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20%2B%20FastAPI-0ea5e9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scalable%20Systems-1e293b?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,html,css,js,tailwind"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        TECH STACK       -->
-<!-- ======================= -->
-
-<h2 align="center">⚙️ Tech Stack</h2>
+## Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,fastapi,postgres,mysql,redis,docker,git,github&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,firebase,redis"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-black?style=for-the-badge&logo=django&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        FOCUS AREAS      -->
-<!-- ======================= -->
-
-<h2 align="center">🎯 What I Build</h2>
+## Databases
 
 <p align="center">
-  📱 Cross-platform Mobile Apps <br/>
-  ⚙️ High-performance Backend APIs <br/>
-  🔐 Secure Authentication Systems <br/>
-  🌍 Real-time Applications (WebSockets) <br/>
-  💳 Payment Integrated Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hive-black?style=for-the-badge&color=000000"/>
+
+<img src="https://img.shields.io/badge/Database%20Optimization-black?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        STATS            -->
-<!-- ======================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## Cloud & DevOps
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axfal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axfal&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axfal&theme=tokyonight"/>
-</p>
 
----
+<img src="https://img.shields.io/badge/Amazon%20EC2-black?style=for-the-badge"/>
 
-<!-- ======================= -->
-<!--        LANGUAGES        -->
-<!-- ======================= -->
+<img src="https://img.shields.io/badge/Amazon%20S3-black?style=for-the-badge"/>
 
-<!-- ======================= -->
-<!--        LANGUAGES        -->
-<!-- ======================= -->
+<img src="https://img.shields.io/badge/Amazon%20RDS-black?style=for-the-badge"/>
 
-<h2 align="center">💻 Languages</h2>
+<img src="https://img.shields.io/badge/Amazon%20IAM-black?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,cpp,java,js&perline=5" />
+<img src="https://img.shields.io/badge/Amazon%20SQS-black?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        TOOLS            -->
-<!-- ======================= -->
-
-<h2 align="center">🧰 Tools & Workflow</h2>
+## Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux&perline=4" />
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,postman,figma"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        CONNECT          -->
-<!-- ======================= -->
+# Featured Projects
 
-<h2 align="center">🌐 Connect</h2>
+## Trading Platform
+
+React.js • Django REST Framework
+
+Real-time trading platform featuring secure authentication, scalable APIs, and optimized backend architecture for reliable financial transactions.
+
+---
+
+## Bonope POS
+
+Flutter • Django
+
+Complete Point of Sale solution including inventory management, billing, customers, authentication, and reporting.
+
+---
+
+## Enterprise CRM
+
+React.js • Django • PostgreSQL
+
+Enterprise-grade CRM for customer management, business workflows, role-based access control, and sales pipeline tracking.
+
+---
+
+## Live Chat System
+
+React.js • Django • WebSockets
+
+Low-latency messaging platform supporting real-time communication with secure authentication and scalable architecture.
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Axfal">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-anfal-01648238a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anfalshah72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Axfal&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Axfal&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Axfal&theme=redical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axfal&theme=github_dark"/>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        QUOTE            -->
-<!-- ======================= -->
+# Education
+
+**University of Sargodha**
+
+Bachelor of Science in Computer Science
+
+CGPA **3.65 / 4.00**
+
+April 2021 – May 2025
+
+---
+
+# Connect
 
 <p align="center">
-  <i>“Building mobile experiences backed by scalable, high-performance systems.”</i>
+
+<a href="mailto:anfal.dev.12@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red"/>
+
+</a>
+
+<a href="https://github.com/Axfal">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=red"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-anfal-01648238a/">
+
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red"/>
+
+</a>
+
 </p>
 
 ---
 
-<!-- ======================= -->
-<!--        FOOTER           -->
-<!-- ======================= -->
+<p align="center">
+
+<i>"Designing scalable software that solves real-world problems."</i>
+
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0ea5e9,50:1e293b,100:0f172a&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0a0a0a,60:1b1b1b,100:d90429"/>
+
 </p>
